@@ -51,7 +51,7 @@ a:hover {
 }
 
 #img-div {
-  height: 40vh;
+  height: 35vh;
 
   background-color: pink;
   border-radius: 50px 50px 0 0;
@@ -75,7 +75,7 @@ a:hover {
   background-color: lightgreen;
   border-radius: 0 0 50px 50px;
   padding: 20px;
-  height: 45vh;
+  height: 50vh;
 }
 
 #tribute-link {
@@ -87,9 +87,9 @@ a:hover {
     width: 240px;
   }
   #img-div {
-    height: 35vh;
+    height: 40vh;
   }
   #tribute-info {
-    height: 50vh;
+    height: 45vh;
   }
 }
