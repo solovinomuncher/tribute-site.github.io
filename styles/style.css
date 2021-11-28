@@ -86,4 +86,7 @@ a:hover {
   #image {
     width: 240px;
   }
+  #tribute-info {
+    height: auto;
+  }
 }
