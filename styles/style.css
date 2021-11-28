@@ -86,7 +86,10 @@ a:hover {
   #image {
     width: 240px;
   }
+  #img-div {
+    height: 35vh;
+  }
   #tribute-info {
-    height: auto;
+    height: 50vh;
   }
 }
